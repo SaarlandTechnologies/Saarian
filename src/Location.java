@@ -1,0 +1,7 @@
+
+
+public enum Location {
+	
+	ZUHAUSE, SCHULE, ARBEIT, STRAßE, STRAßEN_STRICH, IKEA, MCDONALDS, VICTORIA_SECRET;
+
+}

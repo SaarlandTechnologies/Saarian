@@ -1,0 +1,7 @@
+
+
+public enum Leute {
+
+	NORMAL, ARGGRO, DEFENSIV, GENERVT, NOTGEIL, EXPLODIEREND;
+	
+}
